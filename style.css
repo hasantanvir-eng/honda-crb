@@ -1,0 +1,151 @@
+/* header */
+.header-bg{
+    background-color: #264653;
+    width: 100%;
+    height: auto;
+}
+.heading-of-header{
+    font-size: 40px;
+    font-weight: 600;
+}
+.para{
+    width: 350px;
+}
+.navigation{
+    margin-right: 350px;
+    font-weight: 500;
+}
+.navigation-space{
+    margin-left: 36px;
+}
+.login-button{
+    background-color: #E76F51;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    width: 91px;
+    height: 44px;
+    padding: 10px 24px;
+    font-weight: 500;
+    margin-left: 100px;
+}
+.button{
+    background-color: #E76F51;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+    width: 168px;
+    height: 44px;
+    font-weight: 500;
+}
+
+/* header style end  */
+
+/* featured bike */
+hr{
+    width: 5%;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.latest-news-button{
+    background-color: #E76F51;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 160px;
+    height: 57px;
+    font-weight: 500;
+}
+#button{
+    background-color: white;
+    border: 1px solid #E76F51;
+    color: #E76F51;
+    border-radius: 5px;
+    padding: 15px;
+    width: 160px;
+    height: 57px;
+    font-weight: 500;
+}
+/* happy clients section  */
+span{
+    color: #E76F51;
+}
+.img{
+    width: 149px;
+    height: 149px;
+    margin-top: 40px;
+}
+#img{
+    border-radius: 50%;
+}
+.text{
+    width: 253px;
+    height: 104px;
+    color: #6C6C6C;
+    text-align: center;
+}
+.rating{
+    color: #E76F51;
+    text-align: center;
+}
+#regina{
+    font-size: 13px;
+    font-weight: 600;
+}
+#banker{
+    font-size: 14px;
+    font-weight: 700;
+    color: #252B42;
+}
+.ac-body{
+    color: #7E848C;
+}
+/* footer  */
+.footer{
+    height: 300px;
+    background-color: #0B0D17;
+    color: #FFFFFF;
+}
+.foot-text{
+    position: relative;
+    top: 70px;
+    word-spacing: 20px;
+}
+#copyright{
+    font-size: 14px;
+    position: relative;
+    top: 70px;
+    color:#D9DBE1;
+}
+.foot-right-text{
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+}
+.foot-button{
+    width: 135px;
+    height: 40px;
+    position: relative;
+    top: 70px;
+    border-color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+.foot-button p{
+    font-size: 10px;
+}
+#apple-icon{
+    position: relative;
+    top: 7px;
+    left: 5px;
+}
+#apple{
+    position: relative;
+    top: -25px;
+    font-size: 16px;
+    font-weight: 900;
+    color: white;
+}
